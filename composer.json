@@ -1,0 +1,7 @@
+{
+		"name" : "takeHo/grace-framework",
+		"description": "PHP (Hypertext Preprocessor) framework.",
+		"require": {
+				"php": "^7.1"
+		}
+}
